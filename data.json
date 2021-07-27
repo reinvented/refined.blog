@@ -2960,6 +2960,23 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Peter Rukavina",
+            "url": "https://ruk.ca",
+            "tags": [
+                "letterpress",
+                "travel",
+                "gis",
+                "mapping",
+                "charlottetown",
+                "prince edward island",
+                "autism",
+                "fountain pens",
+                "bookbinding",
+                "cycling"
+            ],
+            "furl": "https://ruk.ca/rss/feedburner.xml"
         }
     ]
 }
